@@ -1,10 +1,17 @@
 # SpectralMove
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Runtime-Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Framework-Hono-000000?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
 Engineered ecosystems, automation workflows, and autonomous AI systems. We architect scalable backend solutions and high-performance CRM networks focused on business precision and velocity.
 
 ---
 
-### Core Specialization
+### 🛠 Core Specialization
 
 * **Systems Architecture** — Distributed high-load systems, performance optimization, robust database design.
 * **Autonomous AI Workflows** — LLM-driven business logic, multi-agent communication networks, automated lead conversion.
@@ -12,7 +19,7 @@ Engineered ecosystems, automation workflows, and autonomous AI systems. We archi
 
 ---
 
-### Engineering Stack
+### 💻 Engineering Stack
 
 ```text
 Runtime & Backend  ::  Bun / Hono / Node.js / TypeScript
