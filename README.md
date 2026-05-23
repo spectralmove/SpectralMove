@@ -12,11 +12,14 @@
 
 ### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu-bold.svg" width="20" height="20" align="center" style="filter: invert(1);" /> Core Specialization / Основная специализация
 
-* **Systems Architecture / Архитектура систем** * EN: Distributed high-load systems, performance optimization, robust database design.
+* **Systems Architecture / Архитектура систем**
+  * EN: Distributed high-load systems, performance optimization, robust database design.
   * RU: Распределенные высоконагруженные системы, оптимизация производительности, проектирование баз данных.
-* **Autonomous AI Workflows / Автономные AI-процессы** * EN: LLM-driven business logic, multi-agent communication networks, automated lead conversion.
+* **Autonomous AI Workflows / Автономные AI-процессы**
+  * EN: LLM-driven business logic, multi-agent communication networks, automated lead conversion.
   * RU: Бизнес-логика на базе LLM, мультиагентные сети коммуникации, автоматическая конверсия лидов.
-* **Full-Stack Enterprise Solutions / Корпоративные решения** * EN: Custom CRM hubs, robust API design, state-of-the-art secure data tunnels.
+* **Full-Stack Enterprise Solutions / Корпоративные решения**
+  * EN: Custom CRM hubs, robust API design, state-of-the-art secure data tunnels.
   * RU: Кастомные CRM-платформы, проектирование отказоустойчивых API, защищенные каналы данных.
 
 ---
