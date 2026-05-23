@@ -2,20 +2,26 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=SpectralMove" alt="Typing SVG" />
   </a>
-  <p>Engineered ecosystems, automation workflows, and autonomous AI systems. We architect scalable backend solutions and high-performance networks focused on business precision and velocity.</p>
+  <p>
+    <strong>EN:</strong> Engineered ecosystems, automation workflows, and autonomous AI systems. We architect scalable backend solutions and high-performance networks focused on business precision and velocity.<br>
+    <strong>RU:</strong> Интеллектуальные экосистемы, автоматизация процессов и автономные AI-системы. Проектируем масштабируемые backend-решения и высоконагруженные сети с фокусом на точность и скорость бизнес-операций.
+  </p>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cpu.svg" width="20" height="20" align="center" /> Core Specialization
+### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu-bold.svg" width="20" height="20" align="center" style="filter: invert(1);" /> Core Specialization / Основная специализация
 
-* **Systems Architecture** — Distributed high-load systems, performance optimization, robust database design.
-* **Autonomous AI Workflows** — LLM-driven business logic, multi-agent communication networks, automated lead conversion.
-* **Full-Stack Enterprise Solutions** — Custom CRM hubs, robust API design, state-of-the-art secure data tunnels.
+* **Systems Architecture / Архитектура систем** * EN: Distributed high-load systems, performance optimization, robust database design.
+  * RU: Распределенные высоконагруженные системы, оптимизация производительности, проектирование баз данных.
+* **Autonomous AI Workflows / Автономные AI-процессы** * EN: LLM-driven business logic, multi-agent communication networks, automated lead conversion.
+  * RU: Бизнес-логика на базе LLM, мультиагентные сети коммуникации, автоматическая конверсия лидов.
+* **Full-Stack Enterprise Solutions / Корпоративные решения** * EN: Custom CRM hubs, robust API design, state-of-the-art secure data tunnels.
+  * RU: Кастомные CRM-платформы, проектирование отказоустойчивых API, защищенные каналы данных.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/terminal.svg" width="20" height="20" align="center" /> Technology Stack & Tools
+### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-bold.svg" width="20" height="20" align="center" style="filter: invert(1);" /> Technology Stack & Tools / Стек технологий и инструменты
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
