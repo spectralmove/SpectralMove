@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Core Specialization
+### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cpu.svg" width="20" height="20" align="center" /> Core Specialization
 
 * **Systems Architecture** — Distributed high-load systems, performance optimization, robust database design.
 * **Autonomous AI Workflows** — LLM-driven business logic, multi-agent communication networks, automated lead conversion.
@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Technology Stack & Tools
+### <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/terminal.svg" width="20" height="20" align="center" /> Technology Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
