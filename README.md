@@ -2,124 +2,94 @@
 
 # SpectralMove
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Engineering+AI+Ecosystems;Distributed+Systems+%E2%80%A2+Enterprise+Automation;High-Performance+Backend+Engineering;Autonomous+Agents+%E2%80%A2+Business+Infrastructure" />
+
+<br>
+
 ```txt
-Engineering AI Ecosystems • High-Load Systems • Business Automation
+AI SYSTEMS • HIGH-LOAD BACKEND • ENTERPRISE AUTOMATION
 ```
 
-<p>
-Building autonomous AI infrastructures, scalable backend systems,
-and enterprise-grade automation focused on precision, speed, and growth.
-</p>
+Building autonomous AI infrastructures, scalable backend systems
+and enterprise-grade automation focused on precision and velocity.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+Workflows+%E2%80%A2+Distributed+Systems+%E2%80%A2+Enterprise+Automation;High-Performance+Backend+Engineering;Autonomous+Agents+%26+Business+Infrastructure" />
+<img src="https://komarev.com/ghpvc/?username=spectralmove&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## Architecture Focus
+<div align="center">
 
-```txt
-▸ Distributed Systems
-▸ Autonomous AI Agents
-▸ Enterprise Automation
-▸ API & Infrastructure Design
-▸ High-Load Backend Solutions
-▸ Data & Network Engineering
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spectralmove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectralmove&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+## /capabilities
+
+```
+$ spectralmove --expertise
+
+✓ Distributed Systems
+✓ AI Agent Networks
+✓ Enterprise Automation
+✓ Custom CRM Infrastructure
+✓ API Architecture
+✓ High-Load Backend Solutions
+✓ Data Engineering
+✓ Secure Integrations
 ```
 
 ---
 
-## Technology Stack
+## /stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,vite,tailwind,nodejs,bun,nestjs,python,fastapi,postgres,mysql,mongodb,redis,docker,linux,git&perline=9" />
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,python,fastapi" />
-</p>
-
-### Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git" />
-</p>
+</div>
 
 ---
 
-## Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### Systems Engineering
-
-- High-load architectures
-- Microservices
-- Event-driven systems
-- Database optimization
-
-</td>
-
-<td width="50%">
-
-### AI Automation
-
-- Multi-agent systems
-- LLM orchestration
-- Lead conversion flows
-- Business process automation
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Overview
+## /currently_building
 
 ```yaml
-Frontend:
-  - React
-  - Next.js
-  - TypeScript
-  - Tailwind
+AI:
+  - Multi-Agent Systems
+  - Autonomous Workflows
+  - Lead Conversion Pipelines
 
 Backend:
-  - Bun
-  - Node.js
-  - NestJS
-  - FastAPI
-
-Databases:
-  - PostgreSQL
-  - Redis
-  - MongoDB
+  - Event Driven Architectures
+  - High Throughput APIs
+  - Service Orchestration
 
 Infrastructure:
-  - Docker
-  - Linux
-  - Nginx
-  - CI/CD
-
-AI:
-  - LLM Agents
-  - Workflow Automation
-  - Telegram Bots
-  - API Integrations
+  - Dockerized Deployments
+  - Linux Servers
+  - CI/CD Automation
 ```
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=spectralmove&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spectralmove&theme=github-dark&hide_border=true&bg_color=000000"/>
+
+</div>
 
 ---
 
