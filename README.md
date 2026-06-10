@@ -32,18 +32,6 @@
 
 ---
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=spectralmove&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-<br>
-
 <div align="center">
 
 ### Engineering systems that scale.
