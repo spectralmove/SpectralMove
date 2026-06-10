@@ -31,9 +31,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### Engineering systems that scale.
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineering_Systems-That_Scale-8A2BE2?style=for-the-badge"/>
+</p>
