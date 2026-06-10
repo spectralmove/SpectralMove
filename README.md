@@ -50,11 +50,9 @@ SpectralMove
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=spectralmove&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineering_Systems-That_Scale-8A2BE2?style=for-the-badge"/>
+</p>
 
 <div align="center">
 
